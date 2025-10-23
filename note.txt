@@ -1,0 +1,9 @@
+Admin:{
+username = admin
+password = admin123
+}
+
+user:{
+username = federico
+password = abcde
+}
